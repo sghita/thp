@@ -1,0 +1,61 @@
+p
+{
+    font-size: 14px; /* Paragraphes de 14 pixels */
+}
+<style>
+.flex-container {
+  display: flex;
+  background-color: white;
+}
+.flex-container {
+  display: flex;
+  background-color: white;
+  justify-content: flex-end;
+  margin left: 140px
+  ;
+}
+
+.center  {
+  position: fixed;
+  top: 35%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  
+}
+.centered {
+  position: fixed;
+  top: 53%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.tamere {
+  position: fixed;
+  top: 45%;
+  left: 38%;
+  transform: translate(-50%, -50%);
+
+}
+.foofoo {
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-items: flex-end;
+  line-height: 1350px;
+  
+ } 
+ .round {
+    width: 100%;
+    border-radius: 15px;
+    border: 1px #000 solid;
+    padding: 5px 215px 5px 125px;
+    position: fixed;
+    top: 0;
+    left: 1000;
+    z-index: 5;
+}
+ 
+</style>
+
+
+
+
